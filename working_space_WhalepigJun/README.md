@@ -25,5 +25,4 @@
  - Barrel_Def.ipynb 생성
    - HTS 파일의 HIT_VEL, HIT_ANG_VER의 최대 최소 확인
    - HIT_RESULT로 나눠 HIT_VEL, HIT_ANG_VER의 scatter plot 확인 (아래 이미지)
-   - ![image](https://user-images.githubusercontent.com/62738248/128636552-7cfdca30-48df-46b2-8b26-382d730fb061.png)
- 
+   - ![image](https://user-images.githubusercontent.com/62738248/128636667-bb9b93db-4d63-4604-9783-f2592592b406.png)
