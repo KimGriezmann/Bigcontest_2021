@@ -12,7 +12,7 @@
    - 최소 0.500의 타율, 최소 1.500의 장타율을 기록한 타구
    - 2016년 실제 배럴로 분류된 공의 타율 0.822, 장타율 2.386
    - 아래 그림에서 빨간색으로 음영처리된 영역이 Barrel Zone으로 배럴으로 분류할 수 있는 타구속도와 발사각도의 조합
-   ![image](https://user-images.githubusercontent.com/62738248/128532393-5832733b-9bc1-4591-8a47-4082d51f6dd6.png)
+   - ![image](https://user-images.githubusercontent.com/62738248/128532393-5832733b-9bc1-4591-8a47-4082d51f6dd6.png)
  
  - 첫번째 생각 : KBO 데이터를 이용해서 위 조건들을 KBO에 적합하도록 영역을 조정
  - 두번째 생각 : 조건의 수치를 조정(최소 타율 0.500, 최소 장타율 1.500을 조정하면서 배럴존 조정)
@@ -21,4 +21,9 @@
  - 씻다가 생각난거 씀. 기존 배럴을 타율, 장타율을 기준으로 분류했는데, 굳이 타율, 장타율말고 다른 지표들을 써보자. 타구에 관한 피쳐말고
 
 
-## 2021. 
+## 2021. 08. 08. 일
+ - Barrel_Def.ipynb 생성
+   - HTS 파일의 HIT_VEL, HIT_ANG_VER의 최대 최소 확인
+   - HIT_RESULT로 나눠 HIT_VEL, HIT_ANG_VER의 scatter plot 확인 (아래 이미지)
+   - ![image](https://user-images.githubusercontent.com/62738248/128636552-7cfdca30-48df-46b2-8b26-382d730fb061.png)
+ 
