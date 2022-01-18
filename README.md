@@ -22,7 +22,7 @@
 
 
 ### **1-(3) 수상** 
-- 최우수상 [한국정보통신진흥협회장상](https://www.bigcontest.or.kr/introduce/history2021.php) 
+- 최우수상 [한국정보통신진흥협회장상](https://www.bigcontest.or.kr/community/view.php?No=170&gubun=notice&keyfield=&keyword=&page=1&keyCate=) 
 
 <br/>
 
